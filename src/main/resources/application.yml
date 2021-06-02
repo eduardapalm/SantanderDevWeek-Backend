@@ -16,3 +16,6 @@ spring:
     generate-ddl: true
     hibernate:
       ddl-auto: none
+
+application:
+  description: Projeto criado na SatanderDevWeek, em parceria com a DIO.
